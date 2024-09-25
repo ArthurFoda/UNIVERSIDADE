@@ -1,5 +1,5 @@
 Título do projeto
-Exercicio 4 Canvas
+Exercicio 5 Canvas
 
 🚀 Começando
 Uma conceituada universidade calcula a nota final de seus alunos de duas formas a depender da quantidade de avaliações.
@@ -17,4 +17,4 @@ Crie a classe aluno que implementa essas funções e os atributos que julgar nec
 Visual Studio Code
 
 ✒️ Autores
-Arthur dos Santos Soares - Trabalho Inicial - Atividade individual - Lista de Exercícios - Etapa 4
+Arthur dos Santos Soares - Trabalho Inicial - Atividade individual - Lista de Exercícios - Etapa 5
